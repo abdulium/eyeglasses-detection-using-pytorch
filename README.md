@@ -12,3 +12,4 @@ We are trying to identify people with eyeglasses and without. Using [CelebA data
 ## Data and models
 Dataset is created by [Ziwei Liu](https://liuziwei7.github.io/) and [Ping Lui](http://personal.ie.cuhk.edu.hk/~pluo/) and can be found [here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html). We will be using ResNet34 and VGG16.
 
+``` Google Colab used in doing this exercise; in addition, cropped images were provided along with the exercise. Due to github limitation we can't provide cropped images, yet code provided in the notebook works for cropping all images ```
